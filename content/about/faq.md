@@ -42,6 +42,7 @@ Here are some Frequently Asked Questions about Haiku. For development related to
     * [How do I use the different GCC versions?](#how-do-i-use-the-different-gcc-versions)
     * [What is Kernel Debugging Land?](#what-is-kernel-debugging-land)
     * [This sounds cool. How do I enter Kernel Debugging Land?](#this-sounds-cool-how-do-i-enter-kernel-debugging-land)
+    * [Is Haiku xkcd/806 compliant?](#is-haiku-xkcd-806-compliant)
   * Hardware
     * [What are the minimum hardware requirements to run Haiku?](#what-are-the-minimum-hardware-requirements-to-run-haiku)
     * [Why doesn't Haiku let me use my monitor's resolution?](#why-doesn-t-haiku-let-me-use-my-monitors-resolution)
@@ -192,6 +193,9 @@ You can also invoke the kernel debugger manually:
   * Or you can use the special shortcut {{< keyboard ALT >}}+{{< keyboard SysRq >}}+{{< keyboard d >}}.
 
 The SysRq key is usually the same as "print screen", but may need to press an extra function key on some laptops.
+
+### Is Haiku xkcd/806 compliant?
+Yes. Our IRC channel is.
 
 ## Hardware
 ### What are the minimum hardware requirements to run Haiku?
